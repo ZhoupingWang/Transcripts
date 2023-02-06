@@ -1,3 +1,3 @@
 # Transcripts
 
-My transcripts for Master and PhD study are uploaded into this repository.
+My pdf files of transcripts for Master and PhD study are uploaded into this repository.
